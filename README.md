@@ -27,4 +27,5 @@ Currently, I am focusing on **Data Types** and **Table Architecture**, ensuring 
 
 ---
 *Followed and inspired by the curriculum of **Murat Yücedağ**.*
+
 *Here's the playlist I'm following: https://www.youtube.com/watch?v=7mM3DuSrqJc&list=PLKnjBHu2xXNNyrd1_9nmYwJ-08OTAg4sa&index=1*
