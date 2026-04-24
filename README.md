@@ -11,10 +11,9 @@ This repository is dedicated to my SQL Server learning process, documented step-
 ##  Repository Structure
 The projects are organized by topic to make it easier to follow the progress:
 
-- **01-basics/**: Database creation, table structures, and basic data types.
-- **02-queries/**: DQL operations (SELECT, WHERE, ORDER BY, etc.).
-- **03-relational-logic/**: Primary Keys, Foreign Keys, and Joins.
-- **04-advanced-sql/**: Stored Procedures, Views, and Triggers.
+- **01-basics-and-queries/**: Database creation, table structures, basic data types and DQL operations (SELECT, WHERE, ORDER BY, etc.). (🔄 In Progress)
+- **02-relational-logic/**: Primary Keys, Foreign Keys, and Joins. (⏳ Up Coming)
+- **03-advanced-sql/**: Stored Procedures, Views, and Triggers. (⏳ Up Coming)
 
 ##  Tech Stack & Tools
 - **Database:** Microsoft SQL Server
@@ -27,3 +26,5 @@ Currently, I am focusing on **Data Types** and **Table Architecture**, ensuring 
 
 ---
 *Followed and inspired by the curriculum of **Murat Yücedağ**.*
+
+*Here's the playlist I'm following: https://www.youtube.com/watch?v=7mM3DuSrqJc&list=PLKnjBHu2xXNNyrd1_9nmYwJ-08OTAg4sa&index=1*
