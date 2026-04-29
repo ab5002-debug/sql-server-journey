@@ -1,7 +1,7 @@
 --Database : ShopBaseDb
 -- Instructor: Murat Yücedağ
 
---Murat Yücedağ SQL Camp - Lesson 10
+--Murat Yücedağ SQL Camp - Lesson 11
 --Topic : Aggregate Functions (Max-Min-Count-Sum-Avg)
 
 --COUNT
